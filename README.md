@@ -1,3 +1,7 @@
+## Parcours francais
+
+Guide Base op-enclave dans docs/fr/README.md.
+
 [![Release](https://img.shields.io/github/v/release/base/op-enclave)](https://github.com/base/op-enclave/releases)
 [![Build](https://github.com/base/op-enclave/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/base/op-enclave/actions/workflows/github-code-scanning/codeql)
 
